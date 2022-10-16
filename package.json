@@ -1,6 +1,5 @@
 {
   "name": "app",
-  "private": "true",
   "dependencies": {
     "@hotwired/stimulus": "^3.1.0",
     "@hotwired/turbo-rails": "^7.2.2",
@@ -13,5 +12,6 @@
   "devDependencies": {
     "vite": "^3.0.0",
     "vite-plugin-ruby": "^3.1.0"
-  }
+  },
+  "packageManager": "yarn@3.2.4"
 }
